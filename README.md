@@ -36,15 +36,12 @@ Here are some screenshots of the application:
 
 YouTube Front-End Clone Screenshot
 
-*(Replace `D:\projects\YouTube Front End clone\ScreenShot.PNG` with the actual path to your screenshot.)*
+![ScreenShot](https://github.com/user-attachments/assets/c3c0099d-48c3-4216-a30f-8cf85583af67)
+
 
 ## Contributing
 
 Feel free to fork the repository and submit pull requests. Contributions to improve the project are welcome!
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
 
