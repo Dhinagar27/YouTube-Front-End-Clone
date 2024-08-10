@@ -1,0 +1,5 @@
+1. Html Structure
+2. Inside the body link the img using <img > tag , this  a void element does not need closing tag
+3. if we use width and height for image it will affect the size and shape
+   it has default css property called "object-fit"
+4 search box using input
